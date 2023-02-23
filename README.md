@@ -18,7 +18,5 @@
   <img height="100" src="https://user-images.githubusercontent.com/106793506/221007863-0e5bf507-e8d5-4a15-87b2-d25c456daf2c.png">
   <img height="100" src="https://user-images.githubusercontent.com/106793506/221008024-c6f1aea7-b1b5-47b0-81d3-f5e01cf8cf31.png">
   <img height="100" src="https://user-images.githubusercontent.com/106793506/221008052-8c308daf-1462-488e-bbbd-65cd4834b215.png"></p>
- <br>
- <br>
  <hr>
  <a align=center" href="https://lukiesel.github.io/LucianoKiesel/" target="_blank"> Visite o meu portfólio</a>
