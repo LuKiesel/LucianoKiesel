@@ -2,7 +2,7 @@
 
 ## Estrutura Básica
 
-<p align="justify">Para esse portfólio usamos seções (Section) para dividir os tópicos, utilizamos linhas e colunas para determinadas seções com intuito de melhorar a visualização do conteúdo e destacar certas informações.</p>
+<p align="justify">Neste projeto utilizamos um menu fixo, usamos seções (Section) para dividir os tópicos, utilizamos linhas e colunas para determinadas seções com intuito de melhorar a visualização do conteúdo e destacar certas informações.</p>
 <br><br>
 <hr>
 
